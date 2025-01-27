@@ -40,3 +40,6 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 ```
 mvn spring-boot:run  
 ```
+
+### Test in postman
+Import json postman collection located in /postman/Notes.postman_collection.json
